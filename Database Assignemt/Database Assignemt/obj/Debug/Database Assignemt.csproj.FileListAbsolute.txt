@@ -1,0 +1,50 @@
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.exe
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.pdb
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.AssemblyReference.cache
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form1.resources
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Properties.Resources.resources
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.GenerateResource.cache
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.CoreCompileInputs.cache
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.exe
+C:\Users\Kavidu krishan\Desktop\C# projects\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.pdb
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.exe
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.pdb
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.AssemblyReference.cache
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form1.resources
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Properties.Resources.resources
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.GenerateResource.cache
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.CoreCompileInputs.cache
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.exe
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.pdb
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form2.resources
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form3.resources
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form4.resources
+F:\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form5.resources
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.exe
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.pdb
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.exe
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.pdb
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csprojResolveAssemblyReference.cache
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form1.resources
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form2.resources
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form3.resources
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form4.resources
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form5.resources
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Properties.Resources.resources
+E:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.GenerateResource.Cache
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.exe
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\bin\Debug\Database Assignemt.pdb
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.AssemblyReference.cache
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form1.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form2.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form3.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form4.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form5.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Properties.Resources.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.GenerateResource.cache
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.csproj.CoreCompileInputs.cache
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.exe
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database Assignemt.pdb
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Form7.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.Main.resources
+F:\RRR\Assignment DB\Proj\Database Assignemt\Database Assignemt\obj\Debug\Database_Assignemt.login.resources

@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B5F9C896-2341-4BC9-82DC-6B6117EB5ADB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Database_Assignemt</RootNamespace>
+    <AssemblyName>Database Assignemt</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form3.Designer.cs">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form4.Designer.cs">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form5.Designer.cs">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form6.Designer.cs">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form7.Designer.cs">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form8.Designer.cs">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form3.resx">
+      <DependentUpon>Form3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form4.resx">
+      <DependentUpon>Form4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form5.resx">
+      <DependentUpon>Form5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form6.resx">
+      <DependentUpon>Form6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form7.resx">
+      <DependentUpon>Form7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form8.resx">
+      <DependentUpon>Form8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\abstract-classic-blue-background-free-vector.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Graphicloads-Polygon-Previous-4.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Custom-Icon-Design-Flatastic-2-Data-add.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Graphicloads-Long-Shadow-Documents-Document-remove.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Graphicloads-Polygon-Cross-3.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Ampeross-Qetto-2-Search.256 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Flat-Icons.com-Flat-Pencil.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\60107fea48b2e397221339f7_6002086f72b72744a301df9e_7-tips-to-improving-client-designer-relationships-b.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Graphicloads-100-Flat-2-Arrow-next.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Gartoon-Team-Gartoon-Action-Edit-clear-broom.256 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\blurred-background-office1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\real-estate-concept-with-miniature-objects-natural-colors-minimalist_950002-32393.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\pexels-miguel-á-padriñán-255379.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\blue-curve-background_53876-113112.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\pngtree-aesthetic-background-pink-pastel-image_866344.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\circles-highlights-background-form-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icons-Land-Vista-People-Office-Client-Male-Light.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphicloads-Transport-Location.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphicloads-Flat-Finance-Dollar.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Justicon-Free-Simple-Line-Video-Media-Production-Movie.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Aha-Soft-People-Users.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iconshock-Super-Vista-General-Home.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\images.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Paomedia-Small-N-Flat-Sign-add.256.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\Everaldo-Crystal-Clear-App-login-manager.128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Icon\watercolor-abstract-background_583264-55.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
